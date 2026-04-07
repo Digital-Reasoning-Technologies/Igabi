@@ -23,6 +23,11 @@
         "image": "/bg1.png",
         "title": "Igabi – Gateway to Northern Kaduna",
         "subtitle": "Igabi Local Government Area is one of the most populous LGAs in Kaduna State and plays a vital role in agriculture, trade, and suburban development around Kaduna metropolis."
+      },
+      {
+        "image": "/bg1.png",
+        "title": "Agriculture, Trade, and Development",
+        "subtitle": "From expanding suburban communities to vibrant markets, Igabi combines economic strength with inclusive governance to support growth across Kaduna State."
       }
     ]
   },
@@ -39,7 +44,7 @@
   },
   "chairman": {
     "sectionTitle": "Message from the Chairman",
-    "name": "Executive Chairman, Igabi Local Government",
+    "name": "Executive Chairman: Hon. Saidu Abdullahi",
     "image": "/chairman.png",
     "messageParagraphs": [
       "Welcome to the official website of Igabi Local Government Area. Our administration is committed to improving infrastructure, agriculture, healthcare, and education across the communities we serve.",
@@ -100,7 +105,7 @@
       { "label": "Agriculture", "href": "/agriculture" },
       { "label": "News & Events", "href": "/news" }
     ],
-    "copyright": "© 2026 Igabi Local Government Area. All rights reserved."
+    "copyright": "Igabi Local Government Area. All rights reserved."
   },
   "aboutPage": {
     "hero": {
@@ -111,8 +116,8 @@
     "tabs": {
       "general": {
         "leadership": [
-          "Executive Chairman: Igabi Local Government",
-          "Vice Chairman: Deputy Chairman"
+          "Executive Chairman: Hon. Saidu Abdullahi",
+          "Vice Chairman: Hon. Suleiman Salisu"
         ],
         "location": [
           "Location: Central Kaduna State, Nigeria",
@@ -149,8 +154,8 @@
     "structure": {
       "intro": "Igabi Local Government operates through an executive leadership supported by a legislative council and administrative departments.",
       "executive": [
-        "Executive Chairman",
-        "Vice Chairman",
+        "Executive Chairman: Hon. Saidu Abdullahi",
+        "Vice Chairman: Hon. Suleiman Salisu",
         "Secretary to the Local Government",
         "Supervisory Councilors responsible for major sectors."
       ],
@@ -167,18 +172,114 @@
         "Education Authority"
       ]
     },
+    "leadership": [
+      {
+        "name": "Kaduna State Governor",
+        "title": "Governor",
+        "image": "/uba.jpeg"
+      },
+      {
+        "name": "Commissioner for Local Government",
+        "title": "Commissioner, Ministry for Local Government and Chieftaincy Affairs",
+        "image": "/commissioner.PNG"
+      },
+      {
+        "name": "Hon. Saidu Abdullahi",
+        "title": "Chairman",
+        "image": "/chairman.png"
+      },
+      {
+        "name": "Hon. Suleiman Salisu",
+        "title": "Vice Chairman",
+        "image": "/logo.png"
+      }
+    ],
     "electoralWards": [
-      { "ward": "Afaka" },
-      { "ward": "Birnin Yero" },
-      { "ward": "Gadan-Gayan" },
-      { "ward": "Igabi" },
-      { "ward": "Kerawa" },
-      { "ward": "Rigachikun" },
-      { "ward": "Sabon Birni" },
-      { "ward": "Turunku" },
-      { "ward": "Zangon Aya" },
-      { "ward": "Zangon Baje" }
-    ]
+      {
+        "ward": "Afaka",
+        "councillor": "Hon. Representative",
+        "image": "/logo.png",
+        "position": "Councillor"
+      },
+      {
+        "ward": "Birnin Yero",
+        "councillor": "Hon. Representative",
+        "image": "/logo.png",
+        "position": "Councillor"
+      },
+      {
+        "ward": "Gadan-Gayan",
+        "councillor": "Hon. Representative",
+        "image": "/logo.png",
+        "position": "Councillor"
+      },
+      {
+        "ward": "Igabi",
+        "councillor": "Hon. Representative",
+        "image": "/logo.png",
+        "position": "Councillor"
+      },
+      {
+        "ward": "Rigachikun",
+        "councillor": "Hon. Representative",
+        "image": "/logo.png",
+        "position": "Councillor"
+      },
+      {
+        "ward": "Rigasa",
+        "councillor": "Hon. Representative",
+        "image": "/logo.png",
+        "position": "Councillor"
+      },
+      {
+        "ward": "Sabon Birni",
+        "councillor": "Hon. Representative",
+        "image": "/logo.png",
+        "position": "Councillor"
+      },
+      {
+        "ward": "Turunku",
+        "councillor": "Hon. Representative",
+        "image": "/logo.png",
+        "position": "Councillor"
+      },
+      {
+        "ward": "Zangon Aya",
+        "councillor": "Hon. Representative",
+        "image": "/logo.png",
+        "position": "Councillor"
+      },
+      {
+        "ward": "Zaria (part of Igabi axis)",
+        "councillor": "Hon. Representative",
+        "image": "/logo.png",
+        "position": "Councillor"
+      },
+      {
+        "ward": "Kerawa",
+        "councillor": "Hon. Representative",
+        "image": "/logo.png",
+        "position": "Councillor"
+      },
+      {
+        "ward": "Shika Dam",
+        "councillor": "Hon. Representative",
+        "image": "/logo.png",
+        "position": "Councillor"
+      }
+    ],
+    "traditionalInstitution": {
+      "sectionTitle": "Traditional Institution",
+      "emirateHeading": "Traditional Council",
+      "districtsHeading": "Districts and Communities",
+      "roleHeading": "Role of Traditional Leaders",
+      "intro": "Igabi has an active traditional leadership structure that supports peacebuilding, cultural preservation, and collaboration with local government institutions.",
+      "chiefdoms": [
+        "District and village heads across Igabi communities work closely with government authorities to strengthen grassroots governance and social cohesion.",
+        "Traditional leaders support dispute resolution, civic mobilization, and the preservation of local customs and values."
+      ],
+      "role": "Traditional institutions in Igabi complement modern governance by promoting community dialogue, safeguarding heritage, and supporting local development priorities."
+    }
   },
   "projectsPage": {
     "hero": {
